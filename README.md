@@ -1,4 +1,3 @@
 # Tech_Academy_Projects
-# The largest heading.
-## The second largest heading.
-###### The smallest heading
+
+###### This is the first project I've ever worked on using Github.
