@@ -30,3 +30,8 @@ git status
 git add 
 git commit
 ```
+
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+[Here](https://www.facebook.com/morgan.allard.7) is a link to my personal Facebook page.
+
