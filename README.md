@@ -4,5 +4,5 @@
 **BOLD**
 *Italicized*
 ~~strikethrough~~
-**This text is _very_important**
+**This text is  _very_ important**
 ***All bold and Italic***
